@@ -1,0 +1,17 @@
+source,type_group,foreigner_friendly,url,notes_en,notes_id
+SUUMO,standard,listing,https://suumo.jp/,Japan's largest portal (Japanese only). Foreigner acceptance depends on each listing's 外国人可 tag.,Portal terbesar di Jepang (hanya bahasa Jepang). Penerimaan orang asing tergantung tag 外国人可 tiap listing.
+LIFULL HOME'S,standard,listing,https://www.homes.co.jp/,Major Japanese portal. Has a foreigner-friendly filter.,Portal besar Jepang. Ada filter ramah orang asing.
+at home,standard,listing,https://www.athome.co.jp/,Major Japanese portal.,Portal besar Jepang.
+GaijinPot Housing,foreigner,high,https://apartments.gaijinpot.com/,English listings from agencies that accept foreigners.,Listing berbahasa Inggris dari agen yang menerima orang asing.
+Real Estate Japan,foreigner,high,https://realestate.co.jp/,"English listings, foreigner-friendly agencies.","Listing berbahasa Inggris, agen ramah orang asing."
+Wagaya Japan,foreigner,high,https://wagaya-japan.com/,Multilingual agency for foreign residents.,Agen multibahasa untuk penduduk asing.
+Best-Estate,foreigner,high,https://www.best-estate.jp/,English agency with tenant support.,Agen berbahasa Inggris dengan dukungan penyewa.
+Tokyo Room Finder,foreigner,high,https://www.tokyoroomfinder.com/,"English agency, rentals in Tokyo.","Agen berbahasa Inggris, sewa di Tokyo."
+Oakhouse,furnished,high,https://www.oakhouse.jp/eng/,"Furnished apartments with English support. No deposit, but key money ~1 month, brokerage 1.1 months, guarantor company required.","Apartemen berperabot dengan dukungan bahasa Inggris. Tanpa deposit, tapi uang kunci ~1 bulan, biaya agen 1,1 bulan, wajib perusahaan penjamin."
+Sakura House,furnished,high_no_guarantor,https://www.sakura-house.com/en/,"Furnished rooms for foreigners, no key money.","Kamar berperabot untuk orang asing, tanpa key money."
+Village House,furnished,high_no_guarantor,https://www.villagehouse.jp/en/,"Older unfurnished public-style apartments; no key money, no agency fee, no guarantor.","Apartemen lama tanpa perabot; tanpa key money, tanpa biaya agen, tanpa penjamin."
+UR Chintai,furnished,high_no_guarantor,https://www.ur-net.go.jp/chintai/,"Public housing corporation: no key money, no agency fee, no guarantor, no renewal fee.","Perumahan publik: tanpa key money, biaya agen, penjamin, maupun biaya perpanjangan."
+Leopalace21,furnished,high,https://www.leopalace21.com/en/,"Furnished studios, multilingual site. No deposit or brokerage; key money ~1 month; guarantee company used.","Studio berperabot, situs multibahasa. Tanpa deposit dan biaya agen; uang kunci ~1 bulan; memakai perusahaan penjamin."
+Ken Corporation,serviced,high,https://www.kencorp.com/,High-end and serviced apartments for expats.,Apartemen kelas atas dan serviced apartment untuk ekspat.
+Plaza Homes,serviced,high,https://www.realestate-tokyo.com/,"Expat-focused agency, furnished and serviced options.","Agen fokus ekspat, pilihan berperabot dan serviced."
+Modern Living Japan,furnished,high_no_guarantor,https://modernlivingjapan.com/en/,"Monthly furnished apartments, utilities ~¥15,000/month extra, no guarantor, multilingual support.","Apartemen berperabot bulanan, utilitas ~¥15.000/bulan terpisah, tanpa penjamin, dukungan multibahasa."

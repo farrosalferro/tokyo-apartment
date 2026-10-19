@@ -1,0 +1,26 @@
+[
+  {
+    "id": "office",
+    "name": "Meguro Central Square",
+    "name_ja": "目黒セントラルスクエア",
+    "address": "3-1-1 Kamiosaki, Shinagawa-ku, Tokyo",
+    "address_ja": "東京都品川区上大崎3-1-1",
+    "lat": 35.633621,
+    "lng": 139.716156,
+    "src": "GSI geocoder (msearch.gsi.go.jp), address confirmed via office listings",
+    "note_en": "Office tower directly in front of JR Meguro Station (west side).",
+    "note_id": "Gedung kantor tepat di depan Stasiun JR Meguro (sisi barat)."
+  },
+  {
+    "id": "mosque",
+    "name": "Masjid Indonesia Tokyo",
+    "name_ja": "インドネシア東京モスク",
+    "address": "4-6-6 Meguro, Meguro-ku, Tokyo 153-0063",
+    "address_ja": "東京都目黒区目黒4-6-6",
+    "lat": 35.632744,
+    "lng": 139.703995,
+    "src": "GSI geocoder (msearch.gsi.go.jp), address confirmed via Wikipedia / Mosqpedia",
+    "note_en": "Inside the Sekolah Republik Indonesia Tokyo (SRIT) compound, about a 16-minute walk west of Meguro Station.",
+    "note_id": "Di dalam kompleks Sekolah Republik Indonesia Tokyo (SRIT), sekitar 16 menit jalan kaki ke barat dari Stasiun Meguro."
+  }
+]

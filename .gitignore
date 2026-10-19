@@ -1,0 +1,7 @@
+# raw HTML captured from listing sites (third-party content, not for redistribution)
+data/raw/*/
+# large Overpass caches; geocode cache is kept so rebuilds are fast and stable
+data/cache/*
+!data/cache/geocode.json
+__pycache__/
+*.pyc

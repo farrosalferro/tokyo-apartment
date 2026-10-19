@@ -1,0 +1,400 @@
+[
+  {
+    "id": "meguro-shimomeguro",
+    "name_en": "Meguro / Shimomeguro (walk tier core)",
+    "name_id": "Meguro / Shimomeguro (inti zona jalan kaki)",
+    "chome": [
+      "目黒区目黒1丁目",
+      "目黒区目黒2丁目",
+      "目黒区目黒3丁目",
+      "目黒区目黒4丁目",
+      "目黒区下目黒1丁目",
+      "目黒区下目黒2丁目",
+      "目黒区下目黒3丁目",
+      "目黒区下目黒4丁目"
+    ],
+    "summary_en": "The area around JR Meguro Station is a busy but tidy commuter hub with Gonnosuke-zaka lined with restaurants, supermarkets and chain shops, and quieter residential streets toward Shimomeguro. The station sits on the plateau and Gonnosuke-zaka and Gyonin-zaka drop steeply west to the Meguro River, so the walk to the masjid (Meguro 4-chome) is down to the river and then up again, while Kamiosaki to the east is roughly level; expect a mix of mid-rise 1K mansions and older low-rise apartments. It is safe and well lit, and the Meguro River cherry blossom season brings heavy crowds in late March to early April. Rents are in the middle of the zone, usually below Nakameguro or Shirokanedai but above Fudomae or Musashi-Koyama.",
+    "summary_id": "Kawasan sekitar Stasiun JR Meguro adalah pusat komuter yang ramai tetapi rapi, dengan Gonnosuke-zaka yang dipenuhi restoran, supermarket dan toko waralaba, serta jalan permukiman yang lebih tenang ke arah Shimomeguro. Stasiun berada di dataran tinggi dan Gonnosuke-zaka serta Gyonin-zaka turun curam ke barat menuju Sungai Meguro, sehingga jalan ke masjid (Meguro 4-chome) turun ke sungai lalu naik lagi, sedangkan Kamiosaki di timur kurang lebih rata; bangunannya campuran mansion 1K bertingkat menengah dan apartemen lama bertingkat rendah. Aman dan terang, dan musim sakura di Sungai Meguro membuat kawasan sangat ramai pada akhir Maret sampai awal April. Sewa berada di tengah zona, biasanya di bawah Nakameguro atau Shirokanedai tetapi di atas Fudomae atau Musashi-Koyama.",
+    "pros_en": [
+      "JR Yamanote, Tokyu Meguro and Namboku/Mita subway lines at one station, with Masjid Indonesia within a 5-20 min walk",
+      "Large choice of supermarkets, restaurants and clinics along Meguro-dori and Gonnosuke-zaka",
+      "Good for walking to the office at Meguro Central Square and to the masjid without a train"
+    ],
+    "cons_en": [
+      "Hills on both sides of the station (Gonnosuke-zaka, Gyonin-zaka) make cycling and carrying groceries tiring",
+      "Cherry blossom season is very crowded along the Meguro River",
+      "Rents are noticeably higher than in Fudomae or Musashi-Koyama for the same room size"
+    ],
+    "pros_id": [
+      "Jalur JR Yamanote, Tokyu Meguro dan subway Namboku/Mita di satu stasiun, dengan Masjid Indonesia sekitar 5-20 menit jalan kaki",
+      "Banyak pilihan supermarket, restoran dan klinik di sepanjang Meguro-dori dan Gonnosuke-zaka",
+      "Cocok untuk berjalan kaki ke kantor di Meguro Central Square dan ke masjid tanpa naik kereta"
+    ],
+    "cons_id": [
+      "Tanjakan di kedua sisi stasiun (Gonnosuke-zaka, Gyonin-zaka) membuat bersepeda dan membawa belanjaan melelahkan",
+      "Musim sakura sangat ramai di sepanjang Sungai Meguro",
+      "Sewa jelas lebih mahal daripada Fudomae atau Musashi-Koyama untuk ukuran kamar yang sama"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Meguro_Station",
+      "https://en.wikipedia.org/wiki/Meguro_River",
+      "https://www.city.meguro.tokyo.jp/"
+    ]
+  },
+  {
+    "id": "kamiosaki-nishigotanda",
+    "name_en": "Kamiosaki & Nishigotanda",
+    "name_id": "Kamiosaki & Nishigotanda",
+    "chome": [
+      "品川区上大崎1丁目",
+      "品川区上大崎2丁目",
+      "品川区上大崎3丁目",
+      "品川区上大崎4丁目",
+      "品川区西五反田3丁目",
+      "品川区西五反田4丁目"
+    ],
+    "summary_en": "Kamiosaki is the Shinagawa-ward side of Meguro Station, home to Meguro Central Square (the office), the Atre station building and a cluster of halal-friendly Indian and Indonesian restaurants within a few minutes of the station. Streets are mostly office buildings and mid-rise mansions near the station, becoming quiet residential blocks toward Shirokanedai and Fudomae; the ground slopes down south toward the river and Nishi-Gotanda. Nishi-Gotanda 3-4-chome runs along the Meguro River and Meguro-dori toward Fudomae, flatter and a bit cheaper. Rents are in the middle to upper-middle of the zone, with the closest buildings to the station commanding a premium for the very short commute.",
+    "summary_id": "Kamiosaki adalah sisi wilayah Shinagawa dari Stasiun Meguro, tempat Meguro Central Square (kantor), gedung stasiun Atre, dan sekelompok restoran India dan Indonesia ramah halal hanya beberapa menit dari stasiun. Dekat stasiun kebanyakan gedung kantor dan mansion bertingkat menengah, lalu menjadi blok permukiman tenang ke arah Shirokanedai dan Fudomae; tanah menurun ke selatan menuju sungai dan Nishi-Gotanda. Nishi-Gotanda 3-4-chome membentang di sepanjang Sungai Meguro dan Meguro-dori menuju Fudomae, lebih datar dan sedikit lebih murah. Sewa di tengah hingga menengah-atas zona, dengan bangunan terdekat dari stasiun lebih mahal karena komute sangat singkat.",
+    "pros_en": [
+      "Shortest commute: many buildings are 1-10 minutes on foot from the office",
+      "Madal, Laxmi, Tandoor, Cabe and Maya Bazaar are all within about 5-8 min of the station",
+      "Station-area supermarkets (Atre) and English-friendly Meguro Dermatology Clinic are close"
+    ],
+    "cons_en": [
+      "About 1-1.5 km from the masjid, so Friday prayers mean a 15-20 min walk or a quick bike ride",
+      "Slopes down toward the river and Nishi-Gotanda, and traffic on Meguro-dori",
+      "Very close buildings are pricey and some face the busy Yamate-dori / station roads"
+    ],
+    "pros_id": [
+      "Komute terpendek: banyak gedung hanya 1-10 menit jalan kaki dari kantor",
+      "Madal, Laxmi, Tandoor, Cabe dan Maya Bazaar semuanya sekitar 5-8 menit dari stasiun",
+      "Supermarket area stasiun (Atre) dan Meguro Dermatology Clinic yang berbahasa Inggris dekat"
+    ],
+    "cons_id": [
+      "Sekitar 1-1,5 km dari masjid, jadi shalat Jumat berarti jalan kaki 15-20 menit atau bersepeda singkat",
+      "Lereng menurun ke arah sungai dan Nishi-Gotanda, serta lalu lintas di Meguro-dori",
+      "Gedung yang sangat dekat mahal dan sebagian menghadap jalan raya/jalan stasiun yang sibuk"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Meguro_Station",
+      "https://en.wikipedia.org/wiki/Shinagawa",
+      "https://www.city.shinagawa.tokyo.jp/"
+    ]
+  },
+  {
+    "id": "mita-ebisu-minami",
+    "name_en": "Mita / Ebisu",
+    "name_id": "Mita / Ebisu",
+    "chome": [
+      "目黒区三田1丁目",
+      "目黒区三田2丁目",
+      "渋谷区恵比寿南1丁目",
+      "渋谷区恵比寿南2丁目",
+      "渋谷区恵比寿南3丁目",
+      "渋谷区恵比寿1丁目",
+      "渋谷区恵比寿2丁目",
+      "渋谷区恵比寿3丁目",
+      "渋谷区恵比寿4丁目",
+      "渋谷区東3丁目"
+    ],
+    "summary_en": "Mita (Meguro-ku) sits on the plateau above Ebisu Garden Place and Meguro River, a calm and upscale residential area of low-rise mansions, embassies and a few older houses. Ebisu-minami, just across the boundary, is more mixed: small shops and eateries along Ebisu's south side, with Ebisu Station a 5-10 min walk. The Ebisu-Meguro walk is about 20-25 minutes along a hilly route, so most residents use the JR Yamanote Line or the Hibiya Line. Rents are higher than Meguro or Fudomae because of the Ebisu address, and rooms are usually smaller for the price.",
+    "summary_id": "Mita (Meguro-ku) berada di dataran tinggi di atas Ebisu Garden Place dan Sungai Meguro, kawasan permukiman tenang dan elit dengan mansion rendah, kedutaan dan beberapa rumah lama. Ebisu-minami yang berbatasan lebih beragam: toko kecil dan tempat makan di sisi selatan Ebisu, dengan Stasiun Ebisu 5-10 menit jalan kaki. Jalan kaki Ebisu-Meguro sekitar 20-25 menit melewati rute berbukit, jadi kebanyakan warga memakai JR Yamanote atau Hibiya Line. Sewa lebih tinggi daripada Meguro atau Fudomae karena alamat Ebisu, dan kamar biasanya lebih kecil untuk harga yang sama.",
+    "pros_en": [
+      "Stylish, quiet and safe; Ebisu Station offers many shops, supermarkets and Honolu halal ramen",
+      "Quick to Shibuya and Shinjuku on the JR Yamanote Line",
+      "Cedar Medical Clinic (English-first) is in Mita 2-chome"
+    ],
+    "cons_en": [
+      "Rents are high, with small rooms at the Ebisu premium",
+      "Hilly walks to Meguro, and the route between the office and the masjid is not direct",
+      "Fewer cheap everyday restaurants than Gotanda or Musashi-Koyama"
+    ],
+    "pros_id": [
+      "Bergaya, tenang dan aman; Stasiun Ebisu punya banyak toko, supermarket, dan ramen halal Honolu",
+      "Cepat ke Shibuya dan Shinjuku lewat JR Yamanote",
+      "Cedar Medical Clinic (berbahasa Inggris) ada di Mita 2-chome"
+    ],
+    "cons_id": [
+      "Sewa tinggi dengan kamar kecil karena harga Ebisu",
+      "Jalan kaki ke Meguro berbukit, dan rute antara kantor dan masjid tidak langsung",
+      "Lebih sedikit tempat makan murah sehari-hari dibanding Gotanda atau Musashi-Koyama"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ebisu_Station",
+      "https://en.wikipedia.org/wiki/Meguro",
+      "https://www.city.meguro.tokyo.jp/"
+    ]
+  },
+  {
+    "id": "nakameguro",
+    "name_en": "Nakameguro",
+    "name_id": "Nakameguro",
+    "chome": [
+      "目黒区中目黒1丁目",
+      "目黒区中目黒2丁目",
+      "目黒区中目黒3丁目",
+      "目黒区中目黒4丁目",
+      "目黒区中目黒5丁目",
+      "目黒区上目黒1丁目",
+      "目黒区上目黒2丁目",
+      "目黒区上目黒3丁目",
+      "目黒区東山1丁目"
+    ],
+    "summary_en": "Nakameguro is the trendy riverside neighbourhood around the Meguro River, known for cafes, boutiques and the cherry blossom promenade, plus the Tokyu Toyoko and Hibiya Line station. The riverside is flat but surrounding streets slope up into Kamimeguro and Daikanyama; building stock is a mix of new design mansions and older low-rise apartments. It is safe but busy and noisy on weekends and during cherry blossom season (late March to early April). Rents are among the highest in the zone, noticeably above Yutenji and Meguro.",
+    "summary_id": "Nakameguro adalah kawasan trendi di tepi Sungai Meguro yang terkenal dengan kafe, butik, dan jalur sakura, serta stasiun Tokyu Toyoko dan Hibiya Line. Tepi sungai datar tetapi jalan di sekitarnya menanjak ke Kamimeguro dan Daikanyama; bangunannya campuran mansion desain baru dan apartemen lama bertingkat rendah. Aman tetapi ramai dan bising saat akhir pekan dan musim sakura (akhir Maret sampai awal April). Sewa termasuk yang tertinggi di zona, jelas di atas Yutenji dan Meguro.",
+    "pros_en": [
+      "Hibiya Line and Tokyu Toyoko Line offer direct access to Ebisu, Roppongi and Shibuya",
+      "Many cafes, bakeries and small supermarkets; Queen Sheba and Premarche are nearby",
+      "Pleasant riverside walking and cycling paths"
+    ],
+    "cons_en": [
+      "Among the most expensive neighbourhoods in the zone",
+      "Very crowded on weekends and during cherry blossom season; some noise from bars",
+      "About 20-25 min walk to the masjid and Meguro Central Square, so a bicycle or train is needed"
+    ],
+    "pros_id": [
+      "Hibiya Line dan Tokyu Toyoko memberi akses langsung ke Ebisu, Roppongi dan Shibuya",
+      "Banyak kafe, toko roti dan supermarket kecil; Queen Sheba dan Premarche dekat",
+      "Jalur jalan kaki dan sepeda di tepi sungai yang nyaman"
+    ],
+    "cons_id": [
+      "Termasuk kawasan termahal di zona",
+      "Sangat ramai akhir pekan dan saat musim sakura; ada kebisingan dari bar",
+      "Sekitar 20-25 menit jalan kaki ke masjid dan Meguro Central Square, jadi perlu sepeda atau kereta"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nakameguro_Station",
+      "https://en.wikipedia.org/wiki/Meguro_River",
+      "https://en.wikipedia.org/wiki/Nakameguro",
+      "https://ieagent.jp/blog/?p=47474"
+    ]
+  },
+  {
+    "id": "fudomae-meguro-honcho",
+    "name_en": "Fudomae / Meguro-honcho",
+    "name_id": "Fudomae / Meguro-honcho",
+    "chome": [
+      "目黒区目黒本町1丁目",
+      "目黒区目黒本町2丁目",
+      "目黒区目黒本町3丁目",
+      "目黒区目黒本町4丁目",
+      "目黒区目黒本町5丁目",
+      "目黒区目黒本町6丁目",
+      "品川区西五反田5丁目",
+      "品川区西五反田6丁目"
+    ],
+    "summary_en": "Fudomae and Meguro-honcho are quiet, low-key residential districts on the Tokyu Meguro Line, with the Fudomae shopping street and Meguro River flats. The area is mainly low-rise apartments and houses, flat compared with Meguro, and a short bike ride from both Meguro Station and the masjid. It is one of the calmer and cheaper parts of the zone: rents are usually lower than in Meguro or Nakameguro for the same size. The trade-off is fewer large shops and restaurants, so you rely on supermarkets and the shopping street in Fudomae.",
+    "summary_id": "Fudomae dan Meguro-honcho adalah kawasan permukiman tenang di jalur Tokyu Meguro, dengan jalan pertokoan Fudomae dan dataran Sungai Meguro. Kebanyakan apartemen dan rumah bertingkat rendah, lebih datar dibanding Meguro, dan hanya sedikit bersepeda ke Stasiun Meguro maupun masjid. Ini salah satu bagian zona yang lebih tenang dan murah: sewa biasanya lebih rendah daripada Meguro atau Nakameguro untuk ukuran yang sama. Kekurangannya, toko dan restoran besar lebih sedikit sehingga mengandalkan supermarket dan jalan pertokoan Fudomae.",
+    "pros_en": [
+      "Lower rents and more space for the money than in Meguro or Nakameguro",
+      "Quiet and flat, good for cycling to the office and the masjid",
+      "Fudomae Station is on the Tokyu Meguro Line (one stop from Meguro)"
+    ],
+    "cons_en": [
+      "Fewer restaurants and shops; halal options need a trip to Meguro or Gotanda",
+      "The 15-20 min walk to the office is mostly along busy Meguro-dori",
+      "Older buildings with smaller rooms and fewer convenience features than new mansions"
+    ],
+    "pros_id": [
+      "Sewa lebih rendah dan ruang lebih luas dibanding Meguro atau Nakameguro",
+      "Tenang dan datar, cocok bersepeda ke kantor dan masjid",
+      "Stasiun Fudomae di jalur Tokyu Meguro (satu perhentian dari Meguro)"
+    ],
+    "cons_id": [
+      "Restoran dan toko lebih sedikit; pilihan halal perlu ke Meguro atau Gotanda",
+      "Jalan kaki 15-20 menit ke kantor sebagian besar lewat Meguro-dori yang ramai",
+      "Bangunan lebih tua dengan kamar lebih kecil dan fasilitas lebih sedikit dibanding mansion baru"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fud%C5%8Dmae_Station",
+      "https://en.wikipedia.org/wiki/Meguro_Station",
+      "https://en.wikipedia.org/wiki/Meguro"
+    ]
+  },
+  {
+    "id": "gotanda-osaki",
+    "name_en": "Gotanda / Osaki",
+    "name_id": "Gotanda / Osaki",
+    "chome": [
+      "品川区東五反田1丁目",
+      "品川区東五反田2丁目",
+      "品川区東五反田3丁目",
+      "品川区東五反田4丁目",
+      "品川区東五反田5丁目",
+      "品川区西五反田1丁目",
+      "品川区西五反田2丁目",
+      "品川区大崎1丁目",
+      "品川区大崎2丁目",
+      "品川区大崎3丁目",
+      "品川区大崎4丁目",
+      "品川区大崎5丁目"
+    ],
+    "summary_en": "Gotanda is a commercial and nightlife-heavy hub on the Yamanote, Toei Asakusa and Tokyu Ikegami lines, with lots of offices, restaurants, bars and some late-night entertainment around the station. Osaki is newer and more corporate, with Osaki Station's towers, wide pedestrian decks and chain shops, and fewer old shopping streets. Both are flatter than Meguro, close to the Embassy of Indonesia (Higashi-Gotanda) and Islamic Culture Exchange Center, and well covered by buses. Rents for similar rooms are generally a bit lower than Meguro, but the apartments near the station are noisier.",
+    "summary_id": "Gotanda adalah pusat komersial dan hiburan malam di jalur Yamanote, Toei Asakusa dan Tokyu Ikegami, dengan banyak kantor, restoran, bar dan sedikit hiburan larut malam di sekitar stasiun. Osaki lebih baru dan korporat, dengan menara Stasiun Osaki, deck pejalan kaki lebar dan toko waralaba, serta lebih sedikit jalan pertokoan tua. Keduanya lebih datar dibanding Meguro, dekat Kedutaan Indonesia (Higashi-Gotanda) dan Islamic Culture Exchange Center, serta terlayani bus. Sewa untuk kamar serupa umumnya sedikit lebih rendah daripada Meguro, tetapi apartemen dekat stasiun lebih bising.",
+    "pros_en": [
+      "Embassy of Indonesia and a listed mosque are in Higashi-Gotanda",
+      "Lower rents than Meguro/Nakameguro for similar rooms",
+      "Many restaurants and late-opening shops, with Yamanote and Ikegami Line access"
+    ],
+    "cons_en": [
+      "More commercial, with bars and late-night entertainment near Gotanda Station",
+      "Noise and crowds around the station; quieter streets are further out",
+      "Less residential feel than Meguro-honcho or Shirokanedai"
+    ],
+    "pros_id": [
+      "Kedutaan Indonesia dan masjid terdaftar ada di Higashi-Gotanda",
+      "Sewa lebih rendah daripada Meguro/Nakameguro untuk kamar serupa",
+      "Banyak restoran dan toko buka larut, akses Yamanote dan Ikegami Line"
+    ],
+    "cons_id": [
+      "Lebih komersial, dengan bar dan hiburan malam di dekat Stasiun Gotanda",
+      "Bising dan ramai di sekitar stasiun; jalan yang tenang lebih jauh dari stasiun",
+      "Suasana permukiman kurang dibanding Meguro-honcho atau Shirokanedai"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gotanda_Station",
+      "https://en.wikipedia.org/wiki/%C5%8Csaki_Station",
+      "https://en.wikipedia.org/wiki/Shinagawa"
+    ]
+  },
+  {
+    "id": "shirokanedai",
+    "name_en": "Shirokanedai / Takanawa",
+    "name_id": "Shirokanedai / Takanawa",
+    "chome": [
+      "港区白金台1丁目",
+      "港区白金台2丁目",
+      "港区白金台3丁目",
+      "港区白金台4丁目",
+      "港区白金台5丁目",
+      "港区白金1丁目",
+      "港区白金2丁目",
+      "港区高輪1丁目",
+      "港区高輪2丁目",
+      "港区高輪3丁目"
+    ],
+    "summary_en": "Shirokanedai is a premium residential neighbourhood on the Namboku and Mita subway lines, known for Platinum Street, the Institute for Nature Study, Happo-en garden and wide, quiet roads. Buildings are mostly newer low-rise mansions and a few older houses, with a calm, well-kept atmosphere that is safe even at night. The area slopes up toward the Meguro-dori ridge, so it is hilly. Rents are among the highest in the zone, noticeably above Meguro and Gotanda, and small 1K units are expensive for what you get.",
+    "summary_id": "Shirokanedai adalah kawasan permukiman premium di jalur subway Namboku dan Mita, terkenal dengan Platinum Street, Institute for Nature Study, taman Happo-en dan jalan lebar yang tenang. Bangunannya kebanyakan mansion rendah baru dan beberapa rumah lama, dengan suasana tenang dan terawat yang aman bahkan di malam hari. Area menanjak ke arah punggung bukit Meguro-dori sehingga berbukit. Sewa termasuk yang tertinggi di zona, jelas di atas Meguro dan Gotanda, dan unit 1K kecil mahal untuk apa yang didapat.",
+    "pros_en": [
+      "Very quiet, clean and safe, with parks and gardens (Institute for Nature Study, Happo-en)",
+      "Namboku/Mita lines run to Meguro (one stop) and central Tokyo",
+      "Halal-friendly options close by: Himalaya Curry, Samrat, Kochuan"
+    ],
+    "cons_en": [
+      "High rents, small rooms and limited cheap everyday shops",
+      "Hilly and fewer bike-friendly flat routes",
+      "Fewer cheap eateries and chain shops than Meguro or Gotanda"
+    ],
+    "pros_id": [
+      "Sangat tenang, bersih dan aman, dengan taman dan kebun (Institute for Nature Study, Happo-en)",
+      "Jalur Namboku/Mita ke Meguro (satu perhentian) dan pusat Tokyo",
+      "Pilihan ramah halal di dekat: Himalaya Curry, Samrat, Kochuan"
+    ],
+    "cons_id": [
+      "Sewa tinggi, kamar kecil, dan toko murah sehari-hari terbatas",
+      "Berbukit dan jalur datar untuk sepeda lebih sedikit",
+      "Lebih sedikit tempat makan murah dan toko waralaba dibanding Meguro atau Gotanda"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shirokanedai_Station",
+      "https://en.wikipedia.org/wiki/Ebisu_Station",
+      "https://www.city.minato.tokyo.jp/"
+    ]
+  },
+  {
+    "id": "yutenji-takaban-gakugei",
+    "name_en": "Yutenji / Takaban / Gakugei-daigaku",
+    "name_id": "Yutenji / Takaban / Gakugei-daigaku",
+    "chome": [
+      "目黒区祐天寺1丁目",
+      "目黒区祐天寺2丁目",
+      "目黒区中央町1丁目",
+      "目黒区中央町2丁目",
+      "目黒区鷹番1丁目",
+      "目黒区鷹番2丁目",
+      "目黒区鷹番3丁目",
+      "目黒区五本木1丁目",
+      "目黒区五本木2丁目",
+      "目黒区五本木3丁目",
+      "目黒区中町1丁目",
+      "目黒区中町2丁目"
+    ],
+    "summary_en": "Yutenji and Gakugei-daigaku are calm residential stations on the Tokyu Toyoko Line, with the Gakugei-daigaku shopping streets and small cafes, bakeries and supermarkets, and Yutenji temple nearby. The terrain is mostly gentle with some slopes, and buildings are low-rise mansions and houses; the vibe is local and family-friendly, popular with young professionals. Both stations are a short ride from Nakameguro and Shibuya, and about 2-3 km from the masjid and office, so cycling is practical. Rents are lower than Nakameguro and similar to or slightly below Meguro, depending on distance from the station.",
+    "summary_id": "Yutenji dan Gakugei-daigaku adalah stasiun permukiman tenang di jalur Tokyu Toyoko, dengan jalan pertokoan Gakugei-daigaku dan kafe kecil, toko roti, supermarket, serta kuil Yutenji di dekatnya. Medannya umumnya landai dengan beberapa tanjakan, bangunan berupa mansion dan rumah bertingkat rendah; suasananya lokal dan ramah keluarga, populer di kalangan pekerja muda. Kedua stasiun sebentar saja ke Nakameguro dan Shibuya, dan sekitar 2-3 km dari masjid dan kantor sehingga bersepeda praktis. Sewa lebih rendah daripada Nakameguro dan mirip atau sedikit di bawah Meguro, tergantung jarak dari stasiun.",
+    "pros_en": [
+      "Lower rents than Nakameguro with a similar calm feel",
+      "Gakugei-daigaku shopping streets are good for daily needs and food",
+      "Direct Toyoko Line access to Shibuya and Yokohama"
+    ],
+    "cons_en": [
+      "2-3 km from both the office and the masjid, so it is the bike tier rather than walking",
+      "The area is quiet, with fewer halal options (only Saray Kebab nearby, unverified)",
+      "Toyoko Line is crowded in rush hour toward Shibuya"
+    ],
+    "pros_id": [
+      "Sewa lebih rendah daripada Nakameguro dengan suasana tenang yang mirip",
+      "Jalan pertokoan Gakugei-daigaku bagus untuk kebutuhan sehari-hari dan makanan",
+      "Akses langsung Toyoko Line ke Shibuya dan Yokohama"
+    ],
+    "cons_id": [
+      "2-3 km dari kantor maupun masjid, jadi zona sepeda, bukan jalan kaki",
+      "Kawasan tenang dengan pilihan halal lebih sedikit (hanya Saray Kebab di dekat, belum terverifikasi)",
+      "Toyoko Line padat saat jam sibuk ke arah Shibuya"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gakugei-daigaku_Station",
+      "https://en.wikipedia.org/wiki/Y%C5%ABtenji_Station",
+      "https://en.wikipedia.org/wiki/Nakameguro_Station"
+    ]
+  },
+  {
+    "id": "musashi-koyama",
+    "name_en": "Musashi-Koyama / Ebara",
+    "name_id": "Musashi-Koyama / Ebara",
+    "chome": [
+      "品川区小山1丁目",
+      "品川区小山2丁目",
+      "品川区小山3丁目",
+      "品川区小山4丁目",
+      "品川区小山5丁目",
+      "品川区小山6丁目",
+      "品川区小山7丁目",
+      "品川区小山台1丁目",
+      "品川区小山台2丁目",
+      "目黒区原町1丁目",
+      "品川区荏原1丁目",
+      "品川区荏原2丁目",
+      "品川区荏原3丁目",
+      "品川区荏原4丁目",
+      "品川区荏原5丁目",
+      "品川区豊町1丁目"
+    ],
+    "summary_en": "Musashi-Koyama is a lively, down-to-earth neighbourhood on the Tokyu Meguro Line, centred on the Palm shopping street, one of Tokyo's longest covered arcades with supermarkets, izakaya, bakeries and cheap eateries. The terrain is flat, making walking and cycling easy, and the area is considered safe and very practical for daily life. Buildings are mostly small mansions and older apartments, with many 1K units. Rents are generally lower than in Meguro, Nakameguro and Shirokanedai, and the Cabe Musashikoyama Indonesian restaurant is here.",
+    "summary_id": "Musashi-Koyama adalah kawasan hidup yang membumi di jalur Tokyu Meguro, berpusat pada jalan pertokoan Palm, salah satu arcade tertutup terpanjang di Tokyo dengan supermarket, izakaya, toko roti dan tempat makan murah. Medannya datar sehingga mudah berjalan kaki dan bersepeda, dan kawasan ini dianggap aman serta sangat praktis untuk kehidupan sehari-hari. Bangunannya kebanyakan mansion kecil dan apartemen lama, dengan banyak unit 1K. Sewa umumnya lebih rendah daripada Meguro, Nakameguro dan Shirokanedai, dan restoran Indonesia Cabe Musashikoyama ada di sini.",
+    "pros_en": [
+      "Flat and walkable, with the Palm covered arcade for supermarkets and cheap meals",
+      "Lower rents than Meguro and Nakameguro",
+      "Cabe Musashikoyama is here, and the masjid is about 1.5 km by bike"
+    ],
+    "cons_en": [
+      "About 2 km from the office at Meguro Central Square, so a short train ride or bike",
+      "Some noise from izakaya and bars along the arcade at night",
+      "Building stock is older, with fewer new, high-spec mansions"
+    ],
+    "pros_id": [
+      "Datar dan mudah dijalani, dengan arcade Palm untuk supermarket dan makan murah",
+      "Sewa lebih rendah daripada Meguro dan Nakameguro",
+      "Cabe Musashikoyama ada di sini, dan masjid sekitar 1,5 km naik sepeda"
+    ],
+    "cons_id": [
+      "Sekitar 2 km dari kantor di Meguro Central Square, jadi perlu kereta singkat atau sepeda",
+      "Ada kebisingan dari izakaya dan bar di arcade pada malam hari",
+      "Bangunan lebih tua, dengan lebih sedikit mansion baru berspesifikasi tinggi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Musashi-koyama_Station",
+      "https://en.wikipedia.org/wiki/Fud%C5%8Dmae_Station",
+      "https://www.city.shinagawa.tokyo.jp/"
+    ]
+  }
+]

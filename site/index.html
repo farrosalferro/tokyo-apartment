@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Meguro Apartment Map</title>
+<meta name="description" content="Rooms within a 20-minute walk or bike ride of Meguro Central Square and Masjid Indonesia Tokyo.">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="vendor/leaflet.min.css">
+<link rel="stylesheet" href="vendor/MarkerCluster.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app" id="app" data-view="list">
+  <aside class="panel" id="panel">
+    <header class="masthead">
+      <div class="mast-row">
+        <div class="brand">
+          <span class="hanko" aria-hidden="true">目黒</span>
+          <div>
+            <h1 data-i18n="title">Meguro Apartment Map</h1>
+            <p class="sub" data-i18n="subtitle"></p>
+          </div>
+        </div>
+        <button class="lang" id="lang" type="button" aria-label="Switch language">ID</button>
+      </div>
+      <p class="snapshot" id="snapshot"></p>
+      <nav class="tabs" role="tablist">
+        <button role="tab" id="tab-list" class="tab" aria-selected="true" data-tab="list" data-i18n="tab_list">Rooms</button>
+        <button role="tab" id="tab-areas" class="tab" aria-selected="false" data-tab="areas" data-i18n="tab_areas">Areas</button>
+        <button role="tab" id="tab-guide" class="tab" aria-selected="false" data-tab="guide" data-i18n="tab_guide">How to read</button>
+      </nav>
+    </header>
+
+    <section class="tabpane" id="pane-list" role="tabpanel">
+      <details class="filters" id="filters" open>
+        <summary><span data-i18n="filters">Filters</span> <span class="count" id="count"></span></summary>
+        <div class="fgrid">
+          <fieldset>
+            <legend data-i18n="f_group">Type of housing</legend>
+            <div class="chips" id="f-group"></div>
+          </fieldset>
+          <fieldset>
+            <legend data-i18n="f_layout">Layout</legend>
+            <div class="chips" id="f-layout"></div>
+          </fieldset>
+          <fieldset class="range">
+            <legend><span data-i18n="f_max_monthly">Max monthly</span> <output id="f-max-out"></output></legend>
+            <input type="range" id="f-max" min="50000" max="400000" step="5000">
+          </fieldset>
+          <fieldset>
+            <legend data-i18n="f_min_size">Min. size</legend>
+            <div class="chips" id="f-size"></div>
+          </fieldset>
+          <div class="toggles">
+            <label><input type="checkbox" id="f-walk"> <span data-i18n="f_walk"></span></label>
+            <label><input type="checkbox" id="f-bath"> <span data-i18n="f_bath"></span></label>
+            <label><input type="checkbox" id="f-foreigner"> <span data-i18n="f_foreigner"></span></label>
+            <label><input type="checkbox" id="f-noguar"> <span data-i18n="f_noguar"></span></label>
+          </div>
+          <div class="frow">
+            <label class="sort"><span data-i18n="sort">Sort</span>
+              <select id="f-sort">
+                <option value="commute" data-i18n="s_commute"></option>
+                <option value="monthly" data-i18n="s_monthly"></option>
+                <option value="upfront" data-i18n="s_upfront"></option>
+                <option value="size" data-i18n="s_size"></option>
+                <option value="newest" data-i18n="s_newest"></option>
+              </select>
+            </label>
+            <button type="button" class="link-btn" id="f-reset" data-i18n="reset">Reset</button>
+          </div>
+        </div>
+      </details>
+      <ol class="cards" id="cards"></ol>
+    </section>
+
+    <section class="tabpane" id="pane-areas" role="tabpanel" hidden>
+      <div class="areas" id="areas"></div>
+    </section>
+
+    <section class="tabpane prose" id="pane-guide" role="tabpanel" hidden></section>
+  </aside>
+
+  <main class="mapwrap">
+    <div id="map" aria-label="Map"></div>
+    <div class="layers" id="layers">
+      <button type="button" class="layers-toggle" id="layers-toggle" aria-expanded="false"><span data-i18n="layers">Map layers</span></button>
+      <div class="layers-body" id="layers-body" hidden></div>
+    </div>
+  </main>
+
+  <div class="viewswitch" role="group">
+    <button type="button" id="vs-list" aria-pressed="true" data-i18n="view_list">List</button>
+    <button type="button" id="vs-map" aria-pressed="false" data-i18n="view_map">Map</button>
+  </div>
+</div>
+
+<script src="vendor/leaflet.min.js"></script>
+<script src="vendor/leaflet.markercluster.js"></script>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
